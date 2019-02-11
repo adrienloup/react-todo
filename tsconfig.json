@@ -1,0 +1,14 @@
+{
+  "files": [
+    "src/main.tsx"
+  ],
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es6", "dom"],
+    "module": "es2015",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "jsx": "react"
+  },
+  "exclude": ["node_modules"]
+}
